@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🕹️🔃️🪟️📖️ The official documentation source repository for PrestigePreview, a video game LIBrary project about resetting in-game progress, but being able to have a preview of what it is like before resetting.
